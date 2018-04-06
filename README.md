@@ -6,9 +6,9 @@
 最小公倍數
 
 第一個，兩個數相乘後除以最大公因數
-
+![image](https://github.com/HaoWeiChang/LCM-and-GCD/blob/master/1.JPG)
 第二個，兩個數短除法後剩餘的值相乘再乘上最大公因數
-
+![image](https://github.com/HaoWeiChang/LCM-and-GCD/blob/master/2.JPG)
 --------------------------------------------------------
 問題
 
